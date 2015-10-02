@@ -1,0 +1,13 @@
+*.class
+*.swp
+*.swo
+.idea/
+.classpath
+.project
+.settings/*
+project/project/*
+project/target/*
+target/*
+.cache-main
+bin/*
+/bin/
